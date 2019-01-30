@@ -1,7 +1,0 @@
-\\Mac\Home\Documents\Tec de Monterrey\4to Semestre\Análisis y Diseño de Algoritmos\Busqueda por Interpolacion\Busqueda por Interpolacion\bin\Debug\Busqueda por Interpolacion.exe.config
-\\Mac\Home\Documents\Tec de Monterrey\4to Semestre\Análisis y Diseño de Algoritmos\Busqueda por Interpolacion\Busqueda por Interpolacion\bin\Debug\Busqueda por Interpolacion.exe
-\\Mac\Home\Documents\Tec de Monterrey\4to Semestre\Análisis y Diseño de Algoritmos\Busqueda por Interpolacion\Busqueda por Interpolacion\bin\Debug\Busqueda por Interpolacion.pdb
-\\Mac\Home\Documents\Tec de Monterrey\4to Semestre\Análisis y Diseño de Algoritmos\Busqueda por Interpolacion\Busqueda por Interpolacion\obj\Debug\Busqueda por Interpolacion.csprojAssemblyReference.cache
-\\Mac\Home\Documents\Tec de Monterrey\4to Semestre\Análisis y Diseño de Algoritmos\Busqueda por Interpolacion\Busqueda por Interpolacion\obj\Debug\Busqueda por Interpolacion.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\Tec de Monterrey\4to Semestre\Análisis y Diseño de Algoritmos\Busqueda por Interpolacion\Busqueda por Interpolacion\obj\Debug\Busqueda por Interpolacion.exe
-\\Mac\Home\Documents\Tec de Monterrey\4to Semestre\Análisis y Diseño de Algoritmos\Busqueda por Interpolacion\Busqueda por Interpolacion\obj\Debug\Busqueda por Interpolacion.pdb
